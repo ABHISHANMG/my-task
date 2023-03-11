@@ -1,0 +1,23 @@
+.task-list-container {
+  background-color: #1a171d;
+  padding: 10px;
+  border-radius: 2px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.tag-btn {
+  background-color: #f3aa4e;
+  border-radius: 15px;
+  border-width: 0px;
+  color: #1a171d;
+  font-weight: bold;
+  padding: 10px;
+}
+
+.task-para {
+  color: white;
+  font-weight: bold;
+  font-size: 15px;
+}

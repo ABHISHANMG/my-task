@@ -1,0 +1,26 @@
+.tab-btn {
+  border: 1px solid #f3aa4e;
+  padding: 10px;
+  border-radius: 10px;
+  font-weight: bold;
+  font-size: 10px;
+  font-family: roboto;
+  background-color: transparent;
+  color: white;
+  cursor: pointer;
+}
+li {
+  list-style-type: none;
+  margin: 10px;
+}
+.active-tab-btn {
+  border: 1px solid #f3aa4e;
+  padding: 10px;
+  border-radius: 10px;
+  font-weight: bold;
+  font-size: 10px;
+  font-family: roboto;
+  background-color: #f3aa4e;
+  color: white;
+  cursor: pointer;
+}

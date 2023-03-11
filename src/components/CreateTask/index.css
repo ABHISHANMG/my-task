@@ -1,0 +1,76 @@
+.bg-container {
+  background-color: #131213;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+}
+.form-container {
+  background-color: #1a171d;
+  width: 40%;
+  flex-wrap: wrap;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+}
+
+label {
+  color: #ffffff;
+  font-size: 15px;
+  font-family: roboto;
+  font-weight: bold;
+}
+
+.input {
+  border-radius: 2px;
+  background-color: white;
+  padding: 10px;
+  color: #131213;
+  border-width: 0px;
+  outline-width: 0px;
+  width: 100%;
+  margin-bottom: 20px;
+}
+h1 {
+  color: #f3aa4e;
+  font-size: 30px;
+  font-family: roboto;
+  font-weight: bold;
+}
+.add-btn {
+  padding: 10px;
+  background-color: #f3aa4e;
+  color: #131213;
+  border-radius: 5px;
+  border-width: 0px;
+  cursor: pointer;
+  align-self: center;
+}
+form {
+  display: flex;
+  flex-direction: column;
+}
+.tags-container {
+  padding-top: 20px;
+  padding: 10px;
+  width: 100%;
+}
+
+.tabs-container {
+  display: flex;
+  align-items: center;
+  padding: 20px;
+  width: 100%;
+}
+.tab-name {
+  color: white;
+}
+.task-container {
+  padding: 10px;
+}
+.no-task-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
